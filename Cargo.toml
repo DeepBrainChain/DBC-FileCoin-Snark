@@ -35,5 +35,5 @@ bytes = "*"
 
 
 [dependencies.filecoin-proofs-api]
-git = "https://github.com/DeepBrainChain/DBC-rust-filecoin-proofs-api.git"
-rev = "71305ac"
+package = "filecoin-proofs-api"
+version = "5.1.1"
